@@ -1,4 +1,5 @@
 # InstaBot
+Freelancing project for a client
 ## features
 	1. Auto like recent 100 posts
  	2. send follow request to 100 suggestions daily
